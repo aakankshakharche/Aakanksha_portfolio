@@ -118,3 +118,23 @@ html{
 .projects{
 	height: 600px;
 }
+.cnt_form{
+	padding: 15px;
+	font-size: 15px;
+	color: black;
+}
+.form-group{
+	font-size: 25px !important;
+	font-weight: bolder;
+}
+.contact{
+	background-color: #dae0da;
+}
+.footer{
+	background-color: grey;
+	height: 50px;
+	color: white;
+	text-align: center;
+	line-height: 50px;
+	font-size: 30px;
+}
